@@ -1,9 +1,8 @@
 div{
-    height:50%;
-    width: 20px;
+    
+    
     margin: auto;
-    color: aquamarine;
+    color: red;
     background-color: aliceblue;
-    justify-content: center;
-    flex-direction: row;
+    
 }
